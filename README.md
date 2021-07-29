@@ -1,1 +1,1 @@
-# Final-Project-JOVAC-ML-
+Here i have done the project on Text Sentiment Analysis by using NLP(Natural Language Processing) under the JOVAC(Job Oriented Value Added Course) which is offered by my college under the guidance of Mr. Ankur Chaturvedi and Mr. Mohit Gupta 
