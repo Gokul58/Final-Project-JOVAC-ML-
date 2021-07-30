@@ -1,5 +1,6 @@
 # Here I have done the project on Text Sentiment Analysis by using NLP(Natural Language Processing).
-Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
+
+# Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
 
 ## The following project contains :- 
 1. A dataset on which we have done the analysis(text_emotions.csv)
