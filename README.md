@@ -1,4 +1,5 @@
-# Here I have done the project on Text Sentiment Analysis by using NLP(Natural Language Processing) under the JOVAC(Job Oriented Value Added Course) which is offered by my college under the guidance of Mr. Ankur Chaturvedi and Mr. Mohit Gupta.
+# Here I have done the project on Text Sentiment Analysis by using NLP(Natural Language Processing).
+Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
 
 ## The following project contains :- 
 1. A dataset on which we have done the analysis(text_emotions.csv)
